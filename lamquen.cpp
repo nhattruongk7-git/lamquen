@@ -11,3 +11,8 @@ struct date{
 struct kichthuoc{
     int dai;
 };
+int main(){
+    date *ds = new date[5];
+    delete[] ds;
+    return 0;
+}
