@@ -5,6 +5,6 @@ class hoc{
     public:
 };
 struct date{
-    int d;
+    int gio;
     int y;
 };
