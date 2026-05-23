@@ -4,3 +4,7 @@ class hoc{
     private:
     public:
 };
+struct date{
+    int d;
+    int y;
+};
